@@ -2,5 +2,5 @@
 
 require_relative "../guessing_game_cli"
 
-puts "Guess a number between 1 and 6."
+
 run_guessing_game
